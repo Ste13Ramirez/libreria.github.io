@@ -1,5 +1,5 @@
 <?php
-$host = 'mysql-xxxxxx.render.com';
+$host = 'mysql-dpg-d22hmm7diees73de7ibg-a.render.com';
 $db   = 'dblibreria'; 
 $user = 'root';
 $pass = '123456789';
