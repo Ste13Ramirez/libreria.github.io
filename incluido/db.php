@@ -1,8 +1,8 @@
 <?php
 $host = 'dpg-d22hmm7diees73de7ibg-a.oregon-postgres.render.com';
 $db   = 'dblibreria'; 
-$user = 'root';
-$pass = '123456789';
+$user = 'dblibreria_x0pq_user';
+$pass = 'dU8vKxGBMM71B2SlyOtZlSoM8EroQvLH';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
