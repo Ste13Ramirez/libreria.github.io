@@ -1,5 +1,5 @@
 <?php
-$host = 'mysql-dpg-d22hmm7diees73de7ibg-a.render.com';
+$host = 'dblibreria_x0pq_user:dU8vKxGBMM71B2SlyOtZlSoM8EroQvLH@dpg-d22hmm7diees73de7ibg-a.oregon-postgres.render.com';
 $db   = 'dblibreria'; 
 $user = 'root';
 $pass = '123456789';
