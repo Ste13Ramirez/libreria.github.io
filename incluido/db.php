@@ -1,8 +1,8 @@
 <?php
-$host = 'localhost';
+$host = 'mysql-xxxxxx.render.com';
 $db   = 'dblibreria'; 
 $user = 'root';
-$pass = '';
+$pass = '123456789';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
