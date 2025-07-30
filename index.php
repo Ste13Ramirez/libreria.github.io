@@ -1,5 +1,7 @@
-<?php include('incluido/db.php'); ?>
-<?php include('incluido/header.php'); ?>
+<?php 
+header("ngrok-skip-browser-warning: true");
+include('incluido/db.php');
+include('incluido/header.php'); ?>
 
 <div class="container mt-5">
     <h1 class="mb-4">Librería Online</h1>
